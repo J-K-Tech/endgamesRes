@@ -1,0 +1,4 @@
+DATA/GFX/screen.fs
+DATA/MUS/alliance1.mp3
+DATA/FONTS/font.ttf
+DATA/GIF/CLOUDS/CLOUDS/2.PNG
